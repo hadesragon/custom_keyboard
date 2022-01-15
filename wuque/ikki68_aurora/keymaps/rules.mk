@@ -1,0 +1,3 @@
+#VIA_ENABLE = yes
+COMBO_ENABLE = no
+LTO_ENABLE = yes
